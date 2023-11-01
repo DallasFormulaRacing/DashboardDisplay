@@ -27,6 +27,9 @@ private slots:
 
     void on_all_sliderMoved(int position);
 
+    void on_message_clicked();
+
+    void move_message();
 private:
     Ui::Dashboard *ui;
 };
