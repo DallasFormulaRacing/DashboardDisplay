@@ -7,9 +7,8 @@
 2. [User Features](#user-features)
 3. [Hardware and Equipment](#hardware-and-equipment)
 4. [Firmware Tech Stack](#firmware-tech-stack)
-5. [Automation](#automation)
-6. [Future Plans](#future-plans)
-7. [Deprecated Technologies](#deprecated-technologies)
+5. [Software Tech Stack](#software-tech-stack)
+6. [Automation](#automation)
 
 ## Objective:
 - A Dashboard Display system for allowing the driver and pit crew to make critical decisions.
