@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/tachometer.png</file>
+        <file>img/hot-oil.png</file>
+        <file>img/low-voltage.png</file>
+        <file>img/warning-fuel.png</file>
+        <file>img/DFR-Logo.png</file>
+    </qresource>
+</RCC>
